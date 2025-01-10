@@ -108,4 +108,12 @@ Our project also promotes sustainable tourism by:
 ## Conclusion
 
 This project provides an intuitive and user-friendly recommendation system to enhance the dining experience of tourists in Paris. By combining hotel and restaurant data, the app simplifies the decision-making process and ensures a seamless exploration of Paris’s renowned culinary scene.
+
+## Author 
+-  Houssem
+
+For any questions, you can contact me via LinkedIn : https://www.linkedin.com/in/houssem-rezgui-/
+
+## Contributions
+Contributions are welcome! Please open an issue or submit a pull request for enhancements.
    
