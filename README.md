@@ -88,7 +88,8 @@ Our project also promotes sustainable tourism by:
 
 ## Overview of the application
 
-![image](https://github.com/user-attachments/assets/4cfa3265-6d94-4166-b2e9-c6aaf8cef619)
+![Uploading WhatsApp Image 2025-01-29 à 21.00.05_c05a80a8.jpg…]()
+
 
 ### Filtres avancés
 ![image](https://github.com/user-attachments/assets/7de17192-2d77-481f-9d32-2a93d40380f3)
